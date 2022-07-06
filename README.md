@@ -5,10 +5,6 @@ This repository is an example of how tree shaking works in esbuild.
 
 Tree shaking is a term used to describe the removal of dead code. With esbuild, this operation is static and relies in the import/export statements statically defined in the code.
 
-```bash
-pip install foobar
-```
-
 ## Usage
 
 1 - Clone the repository
